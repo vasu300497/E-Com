@@ -28,6 +28,7 @@ const HomeScreen = () => {
                     </Col>
 
                     
+
                 ))
             }
         </Row>
